@@ -2,6 +2,7 @@
 
 ## 準備
 ```sh
+$ git clone git@github.com:yuki7070/switch-webrtc-signaling.git --recursive
 $ docker build -t switch-webrtc-signaling .
 ```
 
